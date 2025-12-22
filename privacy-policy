@@ -13,7 +13,13 @@ User-Generated Content: We collect content you create or upload, such as images 
 
 Activity Data: We track in-app activities, including game results, coins earned, titles, rewards, and "Pekarski dan" progress.
 
-Device Information: We may collect basic device information (model, OS version) to ensure app stability.
+Authentication Data: We use Google Sign-In to facilitate account creation. This provides us with your name and email address.
+
+Device Information: Through expo-device, we collect information such as your device model and OS version to optimize app performance.
+
+Push Notifications: We use Firebase Cloud Messaging and Expo Notifications. To deliver messages, we collect a unique push token assigned to your device.
+
+Media Files: To participate in campaigns, we request access to your device's photo library or camera via expo-image-picker.
 
 
 3. How We Use Your Data We use your information to:
