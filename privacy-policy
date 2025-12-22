@@ -5,41 +5,44 @@ Last Updated: December 2025
 1. Introduction Welcome to Gocina Buhtla. We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
 
-2. Data We Collect
+2. Data We Collect: 
+Account Data: We collect your email address, encrypted password, username. You may also voluntarily provide your Instagram username as a text entry to be displayed on your profile. This is entirely optional and not required to use the App.
 
-Account Data: When you register, we collect your email address, an encrypted password, username, and optionally, your Instagram username.
+Authentication Data: We use Google Sign-In and Supabase Auth to facilitate account creation, which provides us with your name and email.
 
-User-Generated Content: We collect content you create or upload, such as images for the "Buhtla Meseca" campaign.
+User-Generated Content: Images you upload for the "Buhtla Meseca" campaign.
 
-Activity Data: We track in-app activities, including game results, coins earned, titles, rewards, and "Pekarski dan" progress.
+Activity Data: Game results, coins earned, titles, rewards, and "Pekarski dan" progress.
 
-Authentication Data: We use Google Sign-In to facilitate account creation. This provides us with your name and email address.
+Device Information: Through expo-device, we collect device model and OS version for performance optimization.
 
-Device Information: Through expo-device, we collect information such as your device model and OS version to optimize app performance.
+Push Notifications: We use Firebase Cloud Messaging and Expo Notifications, which require a unique push token from your device.
 
-Push Notifications: We use Firebase Cloud Messaging and Expo Notifications. To deliver messages, we collect a unique push token assigned to your device.
-
-Media Files: To participate in campaigns, we request access to your device's photo library or camera via expo-image-picker.
+Media Files: We request access to your photo library or camera via expo-image-picker only for campaign participations.
 
 
 3. How We Use Your Data We use your information to:
 
-Provide and maintain the core features of the app (games, rewards, campaigns).
+Provide core app features (games, rewards, campaigns).
 
-Manage your account and authentication.
+Manage your account and security.
 
 Display your username and content (e.g., photos) on leaderboards or finalist galleries.
 
-Send technical notices, updates, and support messages.
+Send technical notices and push notification updates.
 
 
-4. Data Sharing and Third Parties We do not sell your personal data. We use third-party service providers to power our app:
+4. Data Sharing and Third Parties We do not sell your personal data. We use the following providers:
 
-Supabase: For database management and authentication.
+Supabase: Database management and authentication.
+
+Google/Firebase: Authentication and push notification delivery.
+
+Expo: Application infrastructure and updates.
 
 
-5. Data Retention and Deletion We retain your data as long as your account is active. You have the right to request data deletion. You can delete your account permanently through the profile settings within the app. Upon deletion, all personal identifiers will be removed from our database.
+5. Data Retention and Deletion We retain your data as long as your account is active. You can delete your account permanently through the profile settings within the app. Upon deletion, all personal data will be removed from our active databases.
 
 6. Children’s Privacy Our app is not intended for children under 18. We do not knowingly collect data from children.
 
-7. Contact Us If you have any questions, please contact us at: el.dra7on@gmail.com
+7. Contact Us If you have any questions, contact us at: el.dra7on@gmail.com
