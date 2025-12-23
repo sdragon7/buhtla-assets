@@ -21,7 +21,16 @@ Push Notifications: We use Firebase Cloud Messaging and Expo Notifications, whic
 Media Files: We request access to your photo library or camera via expo-image-picker only for campaign participations.
 
 
-3. How We Use Your Data We use your information to:
+3. Content Visibility and Moderation (The "Safety" Section)
+
+Content Visibility: Images uploaded for campaigns are stored securely. These images are not visible to other users by default. Only entries selected by the administrator as finalists or winners will be displayed.
+
+Content Moderation: All uploaded content is subject to review by the administrator. We reserve the right to remove any content that is offensive, inappropriate, or violates our community standards.
+
+User Safety: Since content is moderated before being made public, there is no direct public feed of unvetted user content. If you encounter any issues, you can contact us directly via email.
+
+
+4. How We Use Your Data We use your information to:
 
 Provide core app features (games, rewards, campaigns).
 
@@ -34,7 +43,7 @@ Send technical notices and push notification updates.
 Content Visibility: Images uploaded for campaigns are stored in supabase storage. These images are not visible to other users unless you are selected as a finalist or a winner, in which case your username and entry photo will be displayed.
 
 
-4. Data Sharing and Third Parties We do not sell your personal data. We use the following providers:
+5. Data Sharing and Third Parties We do not sell your personal data. We use the following providers:
 
 Supabase: Database management and authentication.
 
@@ -43,8 +52,8 @@ Google/Firebase: Authentication and push notification delivery.
 Expo: Application infrastructure and updates.
 
 
-5. Data Retention and Deletion We retain your data as long as your account is active. You can delete your account permanently through the profile settings within the app. Upon deletion, all personal data will be removed from our active databases.
+6. Data Retention and Deletion We retain your data as long as your account is active. You can delete your account permanently through the profile settings within the app. Upon deletion, all personal data will be removed from our active databases.
 
-6. Children’s Privacy Our app is not intended for children under 18. We do not knowingly collect data from children.
+7. Children’s Privacy Our app is not intended for children under 18. We do not knowingly collect data from children.
 
-7. Contact Us If you have any questions, contact us at: el.dra7on@gmail.com
+8. Contact Us If you have any questions, contact us at: el.dra7on@gmail.com
